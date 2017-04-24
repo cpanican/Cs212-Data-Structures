@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Chris/ClionProjects/Assignment5/LinkedListNode.h
+cstddef
+-
+iostream
+-
+
+/cygdrive/c/Users/Chris/ClionProjects/Assignment5/LinkedListStack.h
+stack
+-
+
+/cygdrive/c/Users/Chris/ClionProjects/Assignment5/main.cpp
+iostream
+-
+LinkedListNode.h
+/cygdrive/c/Users/Chris/ClionProjects/Assignment5/LinkedListNode.h
+LinkedListStack.h
+/cygdrive/c/Users/Chris/ClionProjects/Assignment5/LinkedListStack.h
+

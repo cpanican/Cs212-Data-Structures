@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment3/main.cpp
+iostream
+-
+sequence.h
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment3/sequence.h
+
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment3/sequence.cpp
+sequence.h
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment3/sequence.h
+
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment3/sequence.h
+w32api/tchar.h
+-
+iostream
+-
+

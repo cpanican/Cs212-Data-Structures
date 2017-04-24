@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment1/complex.cpp
+complex.h
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment1/complex.h
+
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment1/complex.h
+iostream
+-
+
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment1/main.cpp
+complex.h
+/cygdrive/c/Users/Chris/ClionProjects/CSc 212 - Assignment1/complex.h
+

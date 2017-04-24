@@ -1,0 +1,1 @@
+/usr/bin/c++.exe     -Wl,--enable-auto-import  CMakeFiles/cmTC_8ca23.dir/feature_tests.cxx.o  -o cmTC_8ca23.exe -Wl,--out-implib,libcmTC_8ca23.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
